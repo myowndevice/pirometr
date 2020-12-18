@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ik-rescue)(type Legacy)(uri ${KIPRJMOD}/ik-rescue.lib)(options "")(descr ""))
+)
